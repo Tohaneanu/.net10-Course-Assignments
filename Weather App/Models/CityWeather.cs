@@ -1,5 +1,5 @@
 ﻿
-namespace Weather_App.Models
+namespace Models
 {
     public class CityWeather
     {
